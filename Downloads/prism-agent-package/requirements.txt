@@ -1,0 +1,7 @@
+semantic-kernel==1.29.0
+torch
+openai
+python-dotenv
+requests
+easyocr
+pillow
