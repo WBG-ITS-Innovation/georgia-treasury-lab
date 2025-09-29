@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+*.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env / local config
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optional)
+data/
